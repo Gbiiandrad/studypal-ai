@@ -3,4 +3,125 @@
     padding: 0;
 
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    margin: 24px 0 110px 24px;
+}
+
+.studypal-ai {
+    color: #0F172A;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 110%;
+    display: inline-block;
+    margin-right: 450px;
+}
+
+.links{
+    display: inline-block;
+}
+
+.links-header {
+    margin-right: 26px;
+    color: #0F172A;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.5px;
+    cursor: pointer;
+
+ }
+
+ .links-login{
+    
+    margin-left: 300px;
+    color: #2563EB;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+
+ }
+
+ .button-header{
+    width: 176px;
+    height: 48px;
+    margin-left: 16px;
+    background: #2563EB;
+    border-radius: 8px;
+    border: 2px solid #2563EB;
+    background:#2563EB;
+    
+
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.5px;
+
+    cursor: pointer;
+}
+
+.div-main{
+    margin-left: 80px;
+    display: inline-block;
+}
+
+.titilo-main {
+    width: 407px;
+    color: #0F172A;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 110%; /* 79.2px */
+}
+
+.girl-study{
+    display: inline-block;
+    margin-left: 400px;
+    width: 546px;
+    height: 397px;
+}
+
+
+p{
+    color: #475569;
+    width: 407px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 160%; /* 28.8px */
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.button-mail{
+    margin-right: 16px;
+    width: 215px;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid  #CBD5E1;
+    background: #FFF;
+    color:#475569;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%; /* 22.4px */
+    cursor: pointer;
+}
+
+.button-sign{
+    width: 176px;
+    height: 48px;
+    border-radius: 8px;
+    border: 2px solid #2563EB;
+    background: #2563EB;
+
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.5px;
+    cursor: pointer;
+
 }
