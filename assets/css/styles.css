@@ -65,6 +65,11 @@ header {
     cursor: pointer;
 }
 
+.button-header::after{
+    content: "🡪";
+    margin-left: 15px;
+}
+
 .div-main{
     margin-left: 80px;
     display: inline-block;
